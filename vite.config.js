@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: "build", // This makes sure Vite outputs to the 'build' folder
   },
-  base: "/Paginated-UserList/", // Add this line
+  base: "/Paginated-User-List/", // Add this line
 })
